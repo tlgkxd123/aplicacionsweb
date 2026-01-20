@@ -1,1 +1,48 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <title>Inici | El nostre blog personal</title>
+</head>
+<body>
+
+<header>
+    <h1>Benvinguts al nostre blog</h1>
+    <nav>
+        <a href="index.html">Inici</a> |
+        <a href="posts.html">Entrades</a> |
+        <a href="about.html">Sobre nosaltres</a> |
+        <a href="contact.html">Contacte</a> |
+        <a href="login.html">Login</a> |
+        <a href="register.html">Registre</a>
+    </nav>
+</header>
+
+<main>
+    <p>Aquest és un blog personal on compartim idees, experiències i articles sobre tecnologia i creativitat.</p>
+
+    <img src="banner.jpg" alt="Imatge destacada del blog" width="400">
+
+    <section>
+        <h2>Últimes entrades</h2>
+        <article>
+            <h3>Com vam començar aquest projecte</h3>
+            <p>Una breu introducció sobre el nostre primer post.</p>
+            <a href="posts.html">Llegir més</a>
+        </article>
+
+        <article>
+            <h3>Aprenent HTML des de zero</h3>
+            <p>Parlem dels nostres primers passos en desenvolupament web.</p>
+            <a href="posts.html">Llegir més</a>
+        </article>
+    </section>
+</main>
+
+<footer>
+    <p>© 2026 - Creat per Nom Alumne 1 i Nom Alumne 2</p>
+</footer>
+
+</body>
+</html>
 
